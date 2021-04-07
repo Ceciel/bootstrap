@@ -1,3 +1,9 @@
 body{
-	background-color: aqua;
+	background-color: whitesmoke;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";	
+}
+
+h1{
+	color: cadetblue;
+	text-align: center;
 }
